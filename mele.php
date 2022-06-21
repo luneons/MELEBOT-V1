@@ -9,7 +9,7 @@ echo color("grey","[+] ");echo color("nevy","Username : ");
 $usr = trim(fgets(STDIN));
 echo "\n".color("grey","[+] ");echo color("nevy","Password : ");
         $pass = trim(fgets(STDIN));
-        if($pass == "momo" || $pass == "MOMO"){
+        if($pass == "nico12" || $pass == "Nico12"){
       
         echo color("grey","[-] ");echo color("grey","Checking your account");
         for($a=1;$a<=3;$a++){
